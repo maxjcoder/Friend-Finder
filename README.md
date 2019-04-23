@@ -13,7 +13,7 @@ A compatibility-based "Friend Finder" application -- basically a dating app.
 
 -----------------------------------------
 
-## This is a mock online store inventory database. It allows users to select a product and 'buy' a quantity of that item. The MySQL database updates when the user chooses to buy products. 
+## Description. 
 
 ## This app utilizes ###, ###, and []().
 
