@@ -2,7 +2,7 @@ var friends = [
 
     {
         name: "James",
-        photo: "https://pixel.nymag.com/imgs/daily/vulture/2018/09/12/12-james-marsden.w330.h330.jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/James_Franco_%28Cropped%29.jpg/220px-James_Franco_%28Cropped%29.jpg",
         scores: [
             "5",
             "1",
@@ -18,7 +18,7 @@ var friends = [
     },
     {
         name: "Noah",
-        photo: "https://pmcvariety.files.wordpress.com/2014/04/noah-wyle.jpg?w=1000&h=563&crop=1",
+        photo: "https://www.pbs.org/wnet/pioneers-of-television/files/2014/04/9726952246_bf0663d6a3_o-239x300.jpg",
         scores: [
             "5",
             "2",
@@ -34,7 +34,7 @@ var friends = [
     },
     {
         name: "Jake",
-        photo: "https://www.drcommodore.it/wp-content/uploads/2018/05/jake-gyllenhaal-2000-1280x640.jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jake_Gyllenhaal_Cannes_2015.jpg/241px-Jake_Gyllenhaal_Cannes_2015.jpg",
         scores: [
             "1",
             "2",
@@ -50,7 +50,7 @@ var friends = [
     },
     {
         name: "Drew",
-        photo: "https://res.cloudinary.com/jerrick/image/upload/f_auto,fl_progressive,q_auto,c_fit,w_500/gslspfqfuxek4xup7kf4",
+        photo: "https://hips.hearstapps.com/ell.h-cdn.co/assets/cm/14/52/549ea42ec5ad2_-_the_tao_of_drew_1-lg.jpg",
         scores: [
             "1",
             "5",
@@ -66,7 +66,7 @@ var friends = [
     },
     {
         name: "Dylan",
-        photo: "https://scontent.fphx1-2.fna.fbcdn.net/v/t1.0-9/26169239_1599725060063602_3005430849538769836_n.jpg?_nc_cat=102&_nc_ht=scontent.fphx1-2.fna&oh=1ccd7cd8663f9f67e8373bdbf49cb818&oe=5D3202A1",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dylan_McDermott_2012_%28cropped%29.jpg/200px-Dylan_McDermott_2012_%28cropped%29.jpg",
         scores: [
             "1",
             "4",

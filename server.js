@@ -4,7 +4,7 @@ var bodyParser = require("body-parser");
 var path = require("path");
 
 var PORT = process.env.PORT || 8080;
-  
+
 // create application/x-www-form-urlencoded parser
 app.use(bodyParser.urlencoded({ extended: true }));
  
@@ -16,6 +16,8 @@ app.use(bodyParser.raw({ type: 'application/vnd.custom-type' }))
  
 // parse an HTML body into a string
 app.use(bodyParser.text({ type: 'text/html' }))
+
+app.use(express.static(path.join(__dirname, 'public')));
 
 require("./app/routing/apiRoutes")(app);
 require("./app/routing/htmlRoutes")(app);
