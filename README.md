@@ -32,7 +32,7 @@ A compatibility-based "Friend Finder" application.
 
 ### Video File
 
-![Friend Finder Demo Video](https://drive.google.com/file/d/1lqKw9hgP-4DqqFymwDl1kF7hvP1l4d1A/view)
+https://drive.google.com/file/d/1lqKw9hgP-4DqqFymwDl1kF7hvP1l4d1A/view
 
 
 -----------------------------------------
