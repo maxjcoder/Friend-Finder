@@ -47,9 +47,9 @@ A compatibility-based "Friend Finder" application.
 * Chosen (http://harvesthq.github.io/chosen/) - jQuery plugin/library for making cumbersome boxes more friendly.
 
 ### NPM's Used
-* [](https://www.npmjs.com/express) - This is a minimalist webframework for node
-* [](https://www.npmjs.com/package/body-parser) - Middleware - It parses your incoming request, assembles the chunks containing your form data, then creates this body object filled it with your form data.
-* [](https://www.npmjs.com/path) - Path provides a way of working with directories and file paths.
+* [Express](https://www.npmjs.com/express) - This is a minimalist webframework for node
+* [Body-Parser](https://www.npmjs.com/package/body-parser) - Middleware - It parses your incoming request, assembles the chunks containing your form data, then creates this body object filled it with your form data.
+* [Path](https://www.npmjs.com/path) - Path provides a way of working with directories and file paths.
 
 
 -----------------------------------------
