@@ -44,7 +44,7 @@ A compatibility-based "Friend Finder" application.
 * jQuery
 * Node.js
 * Node Package Manager (npm)
-* Chosen (http://harvesthq.github.io/chosen/) - jQuery plugin/library for making cumbersome boxes more friendly.
+* [Chosen](http://harvesthq.github.io/chosen/) - jQuery plugin/library for making cumbersome boxes more friendly.
 
 ### NPM's Used
 * [Express](https://www.npmjs.com/express) - This is a minimalist webframework for node
